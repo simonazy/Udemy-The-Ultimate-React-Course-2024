@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.flashcard {
+  border: 1px solid #88d66c;
+  background-color: #88d66c;
+  border-radius: 10px;
+  aspect-ratio: 2 / 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.flashcards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 15px;
+  max-width: 1200px; 
+  margin: auto
+}
+
+.selected {
+  border: 1px solid #ffaaaa;
+  background-color: #ffaaaa;
+  color: #fff;
+  font-weight: bold;
+}
