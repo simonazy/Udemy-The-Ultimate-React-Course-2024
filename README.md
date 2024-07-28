@@ -10,3 +10,4 @@
 Topics covered in the part: Component Compositions, Component reusability, Effects and data fetching: `useEffect()` hook, Custom Hooks, Refs
 - 07 [use-popcorn](https://github.com/simonazy/use-popcorn), currrency-converter
   
+## Advabced React: 4 Projects
