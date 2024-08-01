@@ -9,11 +9,14 @@
   - `onMouseLeave`
   - `onClick`
 
-Added default values to prop values: 
+Use prop to pass the variables: the number of stars, messages, color;
+Added default values to prop values.
 ```javascript
 function StarRating({
   defaultRating = 5,
-  message = [],
+  message = ["Bad", "Bad+", "Average", "Average+", "Good"],
   color = "#373A40",
-})
+}){
+
+}
 ```
