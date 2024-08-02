@@ -8,6 +8,6 @@
 ## Intermediate React: 2 Projects
 
 Topics covered in the part: Component Compositions, Component reusability, Effects and data fetching: `useEffect()` hook, Custom Hooks, Refs
-- 07 [use-popcorn](https://github.com/simonazy/use-popcorn), currrency-converter
+- 07 [use-popcorn](https://github.com/simonazy/use-popcorn), currrency-converter, get-geo-location(A custom hook)
   
 ## Advabced React: 4 Projects
