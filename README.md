@@ -11,3 +11,4 @@ Topics covered in the part: Component Compositions, Component reusability, Effec
 - 07 [use-popcorn](https://github.com/simonazy/use-popcorn), currrency-converter, get-geo-location(A custom hook)
   
 ## Advanced React: 4 Projects
+- 08 react-quiz 
